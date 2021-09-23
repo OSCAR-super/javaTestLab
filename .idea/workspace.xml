@@ -212,7 +212,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestFile">
+  <component name="RunManager" selected="Application.GetNum">
+    <configuration name="GetNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GetNum" />
+      <module name="javaTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TestFile" />
       <module name="javaTest" />
@@ -241,6 +248,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GetNum" />
         <item itemvalue="Application.TestFile" />
         <item itemvalue="JUnit.testClassTest" />
         <item itemvalue="JUnit.testClassTest.testSayHello" />
